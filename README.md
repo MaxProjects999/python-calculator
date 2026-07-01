@@ -1,5 +1,5 @@
 
-This is my first Python project.
+This is my first Python project and my first calculator.
 
 ## About
 
