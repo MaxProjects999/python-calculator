@@ -1,5 +1,9 @@
+I started learning Python recently and this is my first real project.
 
-This is my first Python project and my first calculator.
+I built this calculator to practice:
+- loops
+- conditions
+- error handling
 
 ## About
 
@@ -17,8 +21,13 @@ It also handles:
 
 ## Goal
 
-I started learning Python recently and this is my first real project uploaded to GitHub.
+To improve my programming skills and prepare for studying Applied Physics in the USA.
 
-My long-term goal is to study Applied Physics in the USA.
+## What I learned
+
+- How to use while loops
+- How to handle errors with try/except
+- How to use if/elif statements
+- Basic program structure in Python
  
 
